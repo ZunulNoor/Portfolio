@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Zun Ul Noor </span>
             from <span className="purple"> Karachi, Pakistan.</span>
             <br />
-            I am working as a Freelancer.
+            I am working as a Front End Engineer at Zip24
             <br />
             I am currently pursuing a Bachelor's degree in Computer Science from the Federal Urdu University of Arts, Science, and Technology (FUUAST).
             <br />
