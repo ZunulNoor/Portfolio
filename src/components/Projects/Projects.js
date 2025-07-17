@@ -15,7 +15,8 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          Project Page <strong className="purple">Comming Soon </strong>
+          I swear I had projects here… then <strong className="purple">Cyclic </strong> 
+          Crashed
         </h1>
         <p style={{ color: "white" }}>
           {/* Here are a few projects I've worked on recently. */}
