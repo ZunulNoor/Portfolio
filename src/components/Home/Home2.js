@@ -19,39 +19,35 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I’m a passionate <b className="purple">MERN Stack Developer</b> who loves
+              turning ideas into clean, modern, and high-performing web experiences. 🚀
               <br />
-              <br />I am fluent in classics like
+              <br />
+              I work mainly with
               <i>
-                <b className="purple"> Python, Javascript and C. </b>
-              </i>
+                <b className="purple"> React.js, Next.js, Node.js, and MongoDB,</b>
+              </i>{" "}
+              crafting full-stack applications that are fast, scalable, and user-friendly.
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My main focus lies in building
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple"> SaaS platforms </b>
               </i>
+              and exploring how <b className="purple">AI</b> can enhance real-world
+              products and workflows.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              I’m constantly experimenting with modern frameworks, APIs, and design
+              systems to deliver experiences that look great and perform even better.
+              <br />
+              <br />
+              Recently, I’ve been exploring <b className="purple">JWT Authentication</b>,
+              API integrations, and advanced front-end architectures — all while keeping
+              clean code and UX at the core of my process.
             </p>
           </Col>
+
           <Col md={4} className="myAvtar">
             <Tilt>
               <img src={myImg} className="img-fluid" alt="avatar" />

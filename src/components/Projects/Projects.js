@@ -35,7 +35,7 @@ function Projects() {
               isBlog={false}
               isGhLink={false}
               title="Udrive"
-              description="I developed Udrive, an international project, using React.js, Next.js, and a range of modern tools like Mapbox and MUI. In the first version, I worked extensively on integrating map pages and geolocation features. While these pages were removed in the latest release, this project was one of my biggest and taught me invaluable lessons in building scalable, high-performance applications with complex integrations."
+              description="I developed this project, using React.js, Next.js, and some modern tools like Mapbox and MUI. I worked extensively on integrating map pages and geolocation features. While these pages were removed in the latest release, this project taught me invaluable lessons in building scalable, high-performance applications with complex integrations."
               demoLink="https://udrive.ae/en"
             />
           </Col>
@@ -45,7 +45,7 @@ function Projects() {
               isBlog={false}
               isGhLink={false}
               title="Express Mail Georgia"
-              description="I developed EMG, another international project using React.js, Vite, and Material UI (MUI). My focus was solely on building the user interface, designing responsive and visually appealing pages with a smooth user experience. The project features a range of modern UI elements like date pickers, maps, and slick carousels, leveraging libraries like React-Slick and MUI's extensive components."
+              description="I developed this project using Vite, and Material UI (MUI). My focus was solely on building the UI, designing responsive and visually appealing pages with a smooth UX. The project features a range of modern UI elements like date pickers, maps, and slick carousels, leveraging libraries like React-Slick and MUI's extensive components."
               demoLink="https://emg.zip24.com"
             />
           </Col>

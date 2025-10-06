@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
-import { CgLink, CgWebsite } from "react-icons/cg";
+import { CgLink } from "react-icons/cg";
 import { BsGithub } from "react-icons/bs";
 
 function ProjectCards(props) {
@@ -10,7 +10,7 @@ function ProjectCards(props) {
       <Card.Img variant="top" src={props.imgPath} alt="card-img" />
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
-        <Card.Text style={{ display:"flex",alignItems:"center",textAlign: "center", height: "250px" }}>
+        <Card.Text style={{ display: "flex", alignItems: "center", textAlign: "center", height: "280px" }}>
           {props.description}
         </Card.Text>
         {props.isGhLink === true ?
