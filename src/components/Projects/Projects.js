@@ -35,7 +35,7 @@ function Projects() {
               isBlog={false}
               isGhLink={false}
               title="Tassar"
-              description=""
+              description="Tasarr is a modern, scalable web application built with Next JS, designed for high performance and maintainability. It features a responsive and accessible UI using Material UI, includes rich interactive components, form handling, and security features like Google reCAPTCHA a production-ready frontend architecture."
               demoLink="https://tasarr.com/"
             />
           </Col>
