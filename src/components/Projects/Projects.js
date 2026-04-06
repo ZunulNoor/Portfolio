@@ -8,6 +8,7 @@ import Emg from "../../Assets/Projects/Emg.png";
 import TassarImage from "../../Assets/Projects/tassar.png";
 import PersonalProjectOne from "../../Assets/Projects/PersonalProjectOne.png";
 import PersonalProjectTwo from "../../Assets/Projects/PersonalProjectTwo.png";
+import ThenaImage from "../../Assets/Projects/Thena.png";
 
 function Projects() {
   return (
@@ -37,6 +38,16 @@ function Projects() {
               title="Tassar"
               description="Tasarr is a modern, scalable web application built with Next JS, designed for high performance and maintainability. It features a responsive and accessible UI using Material UI, includes rich interactive components, form handling, and security features like Google reCAPTCHA a production-ready frontend architecture."
               demoLink="https://tasarr.com/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ThenaImage}
+              isBlog={false}
+              isGhLink={false}
+              title="Thena"
+              description="Thena is a modern, scalable web-based chatbot platform, currently presented as a pre-launch landing page for early access users. Built with Next.js, it features a responsive, mobile-first UI using Material UI and Emotion, along with interactive elements like an animated hero banner and chatbot preview. Developed collaboratively, with a focus on seamless user experience across devices."
+              demoLink="https://site.thenalaw.com"
             />
           </Col>
           <Col md={4} className="project-card">
